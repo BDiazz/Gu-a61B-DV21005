@@ -2,6 +2,28 @@
 Nombre: Bryan Alexander Díaz Vásquez
 Carnet: DV21005 */
 
+body{
+    background-color: rgb(1, 48, 96); 
+    color: white;
+}
+
+ol li{
+    color: white;
+}
+
+ol{
+    display: block;
+    list-style-position: inside;
+    text-align: center;
+}
+
+button{
+    font-weight: bold;
+    border-radius: 10%;
+    padding: 4px;
+    background-color: rgb(9, 189, 51);
+    }
+
 img {width:3cm;height:3cm;}
 table {width:80%;margin:auto;}
 th#price {cursor:pointer;}
